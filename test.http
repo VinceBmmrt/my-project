@@ -1,0 +1,4 @@
+# GET http://localhost:1337/api/articles
+# //
+# ###
+# GET /api/articles?filters[title][$contains]=html
